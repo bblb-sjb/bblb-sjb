@@ -19,7 +19,7 @@
 
 ### 📫 How to reach me:
 - Email: [937529229@qq.com](mailto:937529229@qq.com)
-- CSDN: [bblb]([https://github.com/your-github-username](https://blog.csdn.net/qq_45400167?spm=1000.2115.3001.5343))
+- CSDN: [bblb](https://blog.csdn.net/qq_45400167?spm=1000.2115.3001.5343)
 
 
 
