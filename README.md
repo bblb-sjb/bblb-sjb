@@ -18,7 +18,7 @@
 [![bblb-sjb's GitHub | Stats](https://stats.quira.sh/bblb-sjb/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=bblb-sjb)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=light)
 
 
 ### 📫 How to reach me:
