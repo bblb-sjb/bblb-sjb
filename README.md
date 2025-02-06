@@ -13,9 +13,12 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 📊 bblb-sjb's GitHub | Stats
+
+[![bblb-sjb's GitHub | Stats](https://stats.quira.sh/bblb-sjb/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bblb-sjb)
+
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-[![bblb-sjb's GitHub | Stats](https://stats.quira.sh/bblb-sjb/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=bblb-sjb)
 
 
 ### 📫 How to reach me:
